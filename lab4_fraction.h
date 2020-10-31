@@ -1,4 +1,7 @@
-/* fraction.h - SYSC 2006 Lab 4 */
+/* fraction.h - SYSC 2006 Lab 4 
+Vimal Gunasegaran
+101155249
+*/
 
 typedef struct {
     int num;  // numerator
